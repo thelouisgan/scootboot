@@ -81,3 +81,8 @@ Requires universal joint for 90deg shaft coupling
 
 MYR 94.00 = USD 22.21
 X2 = MYR 188 = USD 44.42
+
+## 25/07/2025 - 2 hours
+### Sketching exploded diagram & plan
+
+<img width="904" height="766" alt="Screenshot 2025-07-25 at 8 25 25 PM" src="https://github.com/user-attachments/assets/4b117286-e340-405b-a94a-4ded7480fbfd" />
