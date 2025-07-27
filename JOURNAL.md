@@ -86,3 +86,8 @@ X2 = MYR 188 = USD 44.42
 ### Sketching exploded diagram & plan
 
 <img width="904" height="766" alt="Screenshot 2025-07-25 at 8 25 25 PM" src="https://github.com/user-attachments/assets/4b117286-e340-405b-a94a-4ded7480fbfd" />
+
+## 27/07/2025 - 2 hours
+### Designing base plate shape and logo
+
+<img width="1142" height="1105" alt="Screenshot 2025-07-28 at 2 26 02 AM" src="https://github.com/user-attachments/assets/c188afb8-5eec-457c-a878-39f25d04c9f3" />
