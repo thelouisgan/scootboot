@@ -91,3 +91,10 @@ X2 = MYR 188 = USD 44.42
 ### Designing base plate shape and logo
 
 <img width="1142" height="1105" alt="Screenshot 2025-07-28 at 2 26 02 AM" src="https://github.com/user-attachments/assets/c188afb8-5eec-457c-a878-39f25d04c9f3" />
+
+## 28/07/2025 - 3.5 hours
+### CAD Modelling of rear wheels and component research
+
+<img width="2032" height="1161" alt="Screenshot 2025-07-29 at 9 38 43 PM" src="https://github.com/user-attachments/assets/27eefe80-2a3c-4876-836c-8f68bc2d38af" />
+
+For the shaft coupling between the polyurethane wheels and the motor axle, I decided to weld the built in bearing to so that the torque is able to be transferred while allowing me to weld the 8mm motor axle directly into the 8mm bore for the inner bearing track. To prevent lateral slipping, I will be purchasing and using set screw collars outside the wheels on the axle, which I will purchase the longer 51mm shaft length for easier mounting.
