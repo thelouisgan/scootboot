@@ -5,7 +5,7 @@ description: "Powered attachment to shoes using motorised wheels to accelerate w
 created_at: "2025-07-14"
 ---
 
-# 11.5 hours total
+# 13.5 hours total
 
 ## 18/07/2025 - 2 hours
 ### Researching, creating plan and initial BOM list
@@ -100,3 +100,9 @@ X2 = MYR 188 = USD 44.42
 <img width="2032" height="1161" alt="Screenshot 2025-07-29 at 9 38 43 PM" src="https://github.com/user-attachments/assets/27eefe80-2a3c-4876-836c-8f68bc2d38af" />
 
 For the shaft coupling between the polyurethane wheels and the motor axle, I decided to weld the built in bearing to so that the torque is able to be transferred while allowing me to weld the 8mm motor axle directly into the 8mm bore for the inner bearing track. To prevent lateral slipping, I will be purchasing and using set screw collars outside the wheels on the axle, which I will purchase the longer 51mm shaft length for easier mounting.
+
+## 29/07/2025 - 2 hours
+### CAD for all electronics, front wheels and aluminium baseplate
+
+<img width="1912" height="1185" alt="Screenshot 2025-07-30 at 1 15 26 AM" src="https://github.com/user-attachments/assets/d41ef09a-9f28-4eef-8201-922bd8a0e31d" />
+<img width="1912" height="1185" alt="Screenshot 2025-07-30 at 1 15 39 AM" src="https://github.com/user-attachments/assets/840885ae-4dc2-429b-8faa-1341dc616fa0" />
