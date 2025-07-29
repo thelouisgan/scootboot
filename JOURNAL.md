@@ -5,6 +5,8 @@ description: "Powered attachment to shoes using motorised wheels to accelerate w
 created_at: "2025-07-14"
 ---
 
+# 11.5 hours total
+
 ## 18/07/2025 - 2 hours
 ### Researching, creating plan and initial BOM list
 
