@@ -126,3 +126,4 @@ For the shaft coupling between the polyurethane wheels and the motor axle, I dec
 <img width="1158" height="862" alt="Screenshot 2025-07-31 at 1 35 54 AM" src="https://github.com/user-attachments/assets/0d0292e6-b6a5-4813-8bd3-a21e87dc6f75" />
 <img width="1919" height="1080" alt="Screenshot 2025-07-31 at 1 35 05 AM" src="https://github.com/user-attachments/assets/8b972db1-c798-4882-a5df-c8d9d3e8159f" />
 <img width="2032" height="1105" alt="Screenshot 2025-07-30 at 7 45 59 PM" src="https://github.com/user-attachments/assets/e72adfaf-75a0-4322-b292-a12f30f251a5" />
+<img width="1515" height="934" alt="Screenshot 2025-07-31 at 1 52 35 AM" src="https://github.com/user-attachments/assets/9fc5be30-6441-44b5-bed4-dc5fc761ca35" />
