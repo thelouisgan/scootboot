@@ -5,7 +5,7 @@ description: "Powered attachment to shoes using motorised wheels to accelerate w
 created_at: "2025-07-14"
 ---
 
-# 16.5 hours total
+# 18 hours total
 
 ## 18/07/2025 - 2 hours
 ### Researching, creating plan and initial BOM list
@@ -107,8 +107,8 @@ For the shaft coupling between the polyurethane wheels and the motor axle, I dec
 <img width="1912" height="1185" alt="Screenshot 2025-07-30 at 1 15 26 AM" src="https://github.com/user-attachments/assets/d41ef09a-9f28-4eef-8201-922bd8a0e31d" />
 <img width="1912" height="1185" alt="Screenshot 2025-07-30 at 1 15 39 AM" src="https://github.com/user-attachments/assets/840885ae-4dc2-429b-8faa-1341dc616fa0" />
 
-## 30/07/2025 - 3 hours
-### Finished design for Aluminium baseplate (CNC) and TPU sole (3D print) milling + fastener holes
+## 30/07/2025 - 4.5 hours (correction from wakatime)
+### Finished design for Aluminium baseplate (CNC) and TPU sole (3D print) milling + mounting holes
 
 **Rear wheels mounting bracket:**
  - 8x M5x40 Countersunk Head Cap Screw
