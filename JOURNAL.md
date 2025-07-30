@@ -5,7 +5,7 @@ description: "Powered attachment to shoes using motorised wheels to accelerate w
 created_at: "2025-07-14"
 ---
 
-# 13.5 hours total
+# 16.5 hours total
 
 ## 18/07/2025 - 2 hours
 ### Researching, creating plan and initial BOM list
@@ -106,3 +106,23 @@ For the shaft coupling between the polyurethane wheels and the motor axle, I dec
 
 <img width="1912" height="1185" alt="Screenshot 2025-07-30 at 1 15 26 AM" src="https://github.com/user-attachments/assets/d41ef09a-9f28-4eef-8201-922bd8a0e31d" />
 <img width="1912" height="1185" alt="Screenshot 2025-07-30 at 1 15 39 AM" src="https://github.com/user-attachments/assets/840885ae-4dc2-429b-8faa-1341dc616fa0" />
+
+## 30/07/2025 - 3 hours
+### Finished design for Aluminium baseplate (CNC) and TPU sole (3D print) milling + fastener holes
+
+**Rear wheels mounting bracket:**
+ - 8x M5x40 Countersunk Head Cap Screw
+ - [8x Female Threaded Hex Standoff, 18-8 Stainless Steel, 10mm Hex, 16mm Long, M5 x 0.8mm Thread](https://www.mcmaster.com/94868A632/)
+ - 8x M5X0.8 Chamfered Hexagon Thin Nut
+
+**Front truck mounting bolts**
+ - 4x M5x40 Countersunk Head Cap Screw
+ - 4x M5X0.8 Chamfered Hexagon Thin Nut
+
+**Electronics PCB (Arduino Nano + MDD10A Motor Driver)**
+ - 6x M3X10 Countersunk Head Cap Screw
+ - 6x M3X0.5 Chamfered Hexagon Thin Nut
+
+<img width="1158" height="862" alt="Screenshot 2025-07-31 at 1 35 54 AM" src="https://github.com/user-attachments/assets/0d0292e6-b6a5-4813-8bd3-a21e87dc6f75" />
+<img width="1919" height="1080" alt="Screenshot 2025-07-31 at 1 35 05 AM" src="https://github.com/user-attachments/assets/8b972db1-c798-4882-a5df-c8d9d3e8159f" />
+<img width="2032" height="1105" alt="Screenshot 2025-07-30 at 7 45 59 PM" src="https://github.com/user-attachments/assets/e72adfaf-75a0-4322-b292-a12f30f251a5" />
