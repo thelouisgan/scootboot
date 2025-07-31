@@ -1,6 +1,6 @@
 <img width="330.8" height="49.2" alt="Asset 2@4x-8" src="https://github.com/user-attachments/assets/bd06d09e-0762-43f7-ba39-2379e8952533" />
 
-# scootboot
+---
 Powered attachment to shoes using motorised wheels to accelerate walking speeds
 
 Driven by 2 rear DC motors with over 64kg.cm of torque, this attaches to your shoes with simple velcro but provides an increased assistance to your pace. This project was inspired by Shift Robotics' Moonwalkers but controlled though an RC and powered by an Arduino Nano. These boots are able to make walking much faster and acts as a travellator but on any terrain.
